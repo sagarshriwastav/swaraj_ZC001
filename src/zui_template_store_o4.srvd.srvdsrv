@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_TEMPLATE_STORE'
+define service ZUI_TEMPLATE_STORE_O4 {
+  expose ZC_TEMPLATE_STORE as ZDM_TEMPLATE_STORE;
+}
